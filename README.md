@@ -1,5 +1,8 @@
-#  Angular 8 Primeiros Passos
+thanks!
 
+[aluiziomonteiro](https://github.com/aluiziomonteiro)
+
+#  Angular 8 Primeiros Passos
 
 ___
 
